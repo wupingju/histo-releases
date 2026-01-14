@@ -6,13 +6,13 @@
     <description>Histo app updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.0.378</title>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.0.378</sparkle:shortVersionString>
+      <title>Version 0.0.379</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.0.379</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 14 Jan 2026 07:05:10 +0000</pubDate>
-      <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.0.378/Histo-0.0.378.dmg" sparkle:version="7" sparkle:shortVersionString="0.0.378" length="5242009" type="application/octet-stream" />
-      <description><![CDATA[<h2>Version 0.0.378</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <pubDate>Wed, 14 Jan 2026 08:24:14 +0000</pubDate>
+      <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.0.379/Histo-0.0.379.dmg" sparkle:version="8" sparkle:shortVersionString="0.0.379" length="9144318" type="application/octet-stream" />
+      <description><![CDATA[<h2>Version 0.0.379</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
     </item>
   </channel>
 </rss>
