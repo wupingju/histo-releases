@@ -7,6 +7,8 @@ A native macOS app for browsing, searching, and analyzing your Claude Code conve
 [![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)](https://github.com/wupingju/histo-releases/releases)
 [![Latest Release](https://img.shields.io/github/v/release/wupingju/histo-releases)](https://github.com/wupingju/histo-releases/releases/latest)
 
+English | [繁體中文](./README_zh-TW.md)
+
 ---
 
 ## Why Histo?
