@@ -6,13 +6,13 @@
     <description>Histo app updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.0.384</title>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>0.0.384</sparkle:shortVersionString>
+      <title>Version 0.0.385</title>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.0.385</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Thu, 15 Jan 2026 10:36:21 +0000</pubDate>
-      <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.0.384/Histo-0.0.384.dmg" sparkle:version="13" sparkle:shortVersionString="0.0.384" length="9370940" type="application/octet-stream" sparkle:edSignature="dKC2iavcIzpdJjKZurrbTlwvgzRznhFEb61uIePtG9zE1Zh659sM0VynaIdbVsBqEtSeVEigiICNbgv9puMWDA==" />
-      <description><![CDATA[<h2>Version 0.0.384</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <pubDate>Thu, 15 Jan 2026 13:18:07 +0000</pubDate>
+      <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.0.385/Histo-0.0.385.dmg" sparkle:version="14" sparkle:shortVersionString="0.0.385" length="9388298" type="application/octet-stream" sparkle:edSignature="MY4NkADtMjgJW1E56LkxIUzAAIiIttTwvm2BQJNyzxN4D+vasK8jQBOQTc4N1wivPcEyVRREytaxpptl3EVqCg==" />
+      <description><![CDATA[<h2>Version 0.0.385</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
     </item>
   </channel>
 </rss>
