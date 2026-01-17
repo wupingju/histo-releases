@@ -1,10 +1,8 @@
-# Changelog
+# Histo v0.2.0
 
-All notable changes to Histo will be documented in this file.
+Release Date: 2026-01-17
 
----
-
-## [0.2.0] - 2026-01-17
+## What's New
 
 - **[Important]** This update includes a data migration to support Claude Code v2.1.11's new features. Your sessions will be re-uploaded to iCloud to ensure cross-device sync works correctly.
 - Support for session deeplinks. You can right-click on a session to copy its deeplink and use it in other products. Clicking the link will open a session preview, helping you get back to the context faster.
@@ -15,14 +13,4 @@ All notable changes to Histo will be documented in this file.
 
 ---
 
-## [0.1.0] - 2026-01-15
-
-🎉 Initial Public Release
-
----
-
-## 💬 Feedback & Support
-
-Questions or feedback? Reach out to us:
-
-📧 **[support@histo.cc](mailto:support@histo.cc)**
+[Download](https://github.com/wupingju/histo-releases/releases/tag/v0.2.0)
