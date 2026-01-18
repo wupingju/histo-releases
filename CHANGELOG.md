@@ -4,6 +4,13 @@ All notable changes to Histo will be documented in this file.
 
 ---
 
+## [0.2.1] - 2026-01-18
+
+- Improve iCloud sync integrity with automatic detection and repair of orphaned sessions
+- View parent session for forked or continued conversations with one click
+
+---
+
 ## [0.2.0] - 2026-01-17
 
 - **[Important]** This update includes a data migration to support Claude Code v2.1.11's new features. Your sessions will be re-uploaded to iCloud to ensure cross-device sync works correctly.
