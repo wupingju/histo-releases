@@ -6,13 +6,13 @@
     <description>Histo app updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.2.1</title>
-      <sparkle:version>17</sparkle:version>
-      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <title>Version 0.2.2</title>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sun, 18 Jan 2026 13:15:25 +0000</pubDate>
-      <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.2.1/Histo-0.2.1.dmg" sparkle:version="17" sparkle:shortVersionString="0.2.1" length="9772363" type="application/octet-stream" sparkle:edSignature="FW3wjfXVK6nHRel50sSokPvurKVgt0Uf9swVRWQvGnA2/JVWSU1gUMwUWSsfFs26eeeGdcnoyW54A880iy+xCA==" />
-      <description><![CDATA[<h2>Version 0.2.1</h2><ul><li>Improve iCloud sync integrity with automatic detection and repair of orphaned sessions</li><li>View parent session for forked or continued conversations with one click</li></ul>]]></description>
+      <pubDate>Mon, 19 Jan 2026 12:34:49 +0000</pubDate>
+      <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.2.2/Histo-0.2.2.dmg" sparkle:version="18" sparkle:shortVersionString="0.2.2" length="9794889" type="application/octet-stream" sparkle:edSignature="fDTKSg3/QAEt96CUc5W/fRajVXX2D1DEi/8Vat9EZIJ6rlTIJk3HlOkGVhVZonVl9ZQi4KCkC+YE5a1KeRonBg==" />
+      <description><![CDATA[<h2>Version 0.2.2</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
     </item>
   </channel>
 </rss>
