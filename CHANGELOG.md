@@ -4,6 +4,12 @@ All notable changes to Histo will be documented in this file.
 
 ---
 
+## [0.2.2] - 2026-01-18
+
+- Fix app freezing when multiple Claude Code sessions are running simultaneously
+
+---
+
 ## [0.2.1] - 2026-01-18
 
 - Improve iCloud sync integrity with automatic detection and repair of orphaned sessions
