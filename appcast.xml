@@ -12,7 +12,20 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Wed, 21 Jan 2026 12:32:24 +0000</pubDate>
       <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.3.0/Histo-0.3.0.dmg" sparkle:version="19" sparkle:shortVersionString="0.3.0" length="9866154" type="application/octet-stream" sparkle:edSignature="cnkdTGDzPUCO9L6dMv/z3pCL2ZgNFvRpPRIqtWm+a/TDq4tAm8KCQ3sijlGfusRJUD6rwfhlObhBUq5f+1MzCg==" />
-      <description><![CDATA[<h2>Version 0.3.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <description><![CDATA[
+<h2>Version 0.3.0</h2>
+<ul>
+<li>Significantly improve overall performance, including launch speed, scrolling speed, responsiveness when clicking on sessions and sub-sessions, and any operations during sync.</li>
+<li>Redesign the color system with a refined, low-contrast palette for comfortable extended reading.</li>
+<li>Refine loading animation with smoother, more polished spinner.</li>
+<li>Simplify timeline interface for cleaner, more focused browsing experience.</li>
+<li>Simplify session header and remove sub-session banner for a more compact, focused view.</li>
+<li>Standardize all date and time displays to use consistent ISO-like format (yyyy-MM-dd HH:mm).</li>
+<li>Filter out duplicated sessions introduced by Claude Code to reduce timeline noise.</li>
+<li>Fix an issue where global search results could cause the app to freeze.</li>
+<li>Fix an issue where search result previews don't show the full conversation context.</li>
+</ul>
+]]></description>
     </item>
   </channel>
 </rss>

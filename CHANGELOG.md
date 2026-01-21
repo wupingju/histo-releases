@@ -4,6 +4,20 @@ All notable changes to Histo will be documented in this file.
 
 ---
 
+## [0.3.0] - 2026-01-21
+
+- Significantly improve overall performance, including launch speed, scrolling speed, responsiveness when clicking on sessions and sub-sessions, and any operations during sync.
+- Redesign the color system with a refined, low-contrast palette for comfortable extended reading.
+- Refine loading animation with smoother, more polished spinner.
+- Simplify timeline interface for cleaner, more focused browsing experience.
+- Simplify session header and remove sub-session banner for a more compact, focused view.
+- Standardize all date and time displays to use consistent ISO-like format (yyyy-MM-dd HH:mm).
+- Filter out duplicated sessions introduced by Claude Code to reduce timeline noise.
+- Fix an issue where global search results could cause the app to freeze.
+- Fix an issue where search result previews don't show the full conversation context.
+
+---
+
 ## [0.2.2] - 2026-01-18
 
 - Fix app freezing when multiple Claude Code sessions are running simultaneously
