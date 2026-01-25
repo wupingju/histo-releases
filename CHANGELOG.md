@@ -4,6 +4,18 @@ All notable changes to Histo will be documented in this file.
 
 ---
 
+## [0.4.0] - 2026-01-25
+
+- Add Selection Mode for selecting and exporting conversation content at multiple levels (Session, Sub-session, Turn, or Message).
+  - You can drag a selection box to select multiple objects, or click the "Select all" button to select all.
+- Add Content Filter to filter conversation by message type (User, Assistant, Tool Use)
+- Add Filter in the Search Panel to filter results by message type (User, Assistant)
+- Tool use messages are filtered by default in the conversation view and search view to reduce noise.
+- Fix search results showing duplicate messages when the same message exists in multiple sessions
+- Fix search result preview only showing one message instead of the full conversation
+
+---
+
 ## [0.3.0] - 2026-01-21
 
 - Significantly improve overall performance, including launch speed, scrolling speed, responsiveness when clicking on sessions and sub-sessions, and any operations during sync.

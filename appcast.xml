@@ -12,7 +12,17 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 25 Jan 2026 09:20:14 +0000</pubDate>
       <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.4.0/Histo-0.4.0.dmg" sparkle:version="20" sparkle:shortVersionString="0.4.0" length="10262551" type="application/octet-stream" sparkle:edSignature="ApFbO0OsvJGo7xMPZvGqxLhJdhI1pp7KckjQeo0rkSXRh8WWlvwwNrkkfjcyDoIP9tnokk2H+gQ8l7s4XveHCA==" />
-      <description><![CDATA[<h2>Version 0.4.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <description><![CDATA[
+<h2>Version 0.4.0</h2>
+<ul>
+<li>Add Selection Mode for selecting and exporting conversation content at multiple levels (Session, Sub-session, Turn, or Message).</li>
+<li>Add Content Filter to filter conversation by message type (User, Assistant, Tool Use)</li>
+<li>Add Filter in the Search Panel to filter results by message type (User, Assistant)</li>
+<li>Tool use messages are filtered by default in the conversation view and search view to reduce noise.</li>
+<li>Fix search results showing duplicate messages when the same message exists in multiple sessions</li>
+<li>Fix search result preview only showing one message instead of the full conversation</li>
+</ul>
+]]></description>
     </item>
   </channel>
 </rss>
