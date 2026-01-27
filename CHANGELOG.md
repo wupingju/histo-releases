@@ -4,6 +4,13 @@ All notable changes to Histo will be documented in this file.
 
 ---
 
+## [0.4.1] - 2026-01-27
+
+- Improve Fork feature with cleaner Markdown export and helpful token estimation
+- Add help button explaining difference between Resume and Fork actions
+
+---
+
 ## [0.4.0] - 2026-01-25
 
 - Add Selection Mode for selecting and exporting conversation content at multiple levels (Session, Sub-session, Turn, or Message).
