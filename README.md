@@ -79,6 +79,44 @@ Histo never modifies your original `.claude` files.
 - All caches stored in a separate SQLite database
 - Automatic backup of original data
 
+### Claude Code Integration (MCP)
+
+Let Claude Code access your conversation history directly through the Model Context Protocol.
+
+- **Search past conversations** — Find relevant discussions without leaving your terminal
+- **Activity summaries** — "What did I work on this week?"
+- **Session browsing** — List and explore sessions with filters
+- **Report generation** — Create markdown reports from multiple sessions
+
+#### Available Tools
+
+| Tool | Description |
+|------|-------------|
+| `histo_search` | Full-text search across all conversations |
+| `histo_list_sessions` | List sessions with date/project filters |
+| `histo_activity_summary` | Get activity summary for a time period |
+| `histo_get_session` | Get metadata for a specific session |
+| `histo_get_conversation` | Get conversation content with chunking |
+| `histo_export_report` | Generate reports from multiple sessions |
+
+#### Setup
+
+```bash
+# Add Histo MCP server to Claude Code
+claude mcp add histo "/Applications/Histo.app/Contents/MacOS/HistoMCP"
+
+# Verify connection
+claude mcp list
+```
+
+#### Example Queries
+
+Once connected, you can ask Claude Code things like:
+- "What did I work on yesterday?"
+- "Find conversations where I discussed authentication"
+- "Show me my most complex sessions this week"
+- "Generate a report from my recent histo sessions"
+
 ---
 
 ## Installation

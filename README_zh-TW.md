@@ -79,6 +79,44 @@ Histo 絕不修改你的 `.claude` 原始檔案。
 - 所有快取存放於獨立的 SQLite 資料庫
 - 自動備份原始資料
 
+### Claude Code 整合（MCP）
+
+透過 Model Context Protocol，讓 Claude Code 直接存取你的對話歷史。
+
+- **搜尋過往對話** — 不用離開終端機就能找到相關討論
+- **活動摘要** — 「我這週做了什麼？」
+- **Session 瀏覽** — 依條件篩選列出 session
+- **報告產生** — 從多個 session 產出 Markdown 報告
+
+#### 可用工具
+
+| 工具 | 說明 |
+|------|------|
+| `histo_search` | 跨所有對話的全文搜尋 |
+| `histo_list_sessions` | 依日期/專案篩選列出 session |
+| `histo_activity_summary` | 取得特定時段的活動摘要 |
+| `histo_get_session` | 取得特定 session 的 metadata |
+| `histo_get_conversation` | 取得對話內容（支援分塊） |
+| `histo_export_report` | 從多個 session 產生報告 |
+
+#### 設定方式
+
+```bash
+# 將 Histo MCP server 加入 Claude Code
+claude mcp add histo "/Applications/Histo.app/Contents/MacOS/HistoMCP"
+
+# 驗證連線
+claude mcp list
+```
+
+#### 使用範例
+
+連線後，你可以問 Claude Code：
+- 「我昨天做了什麼？」
+- 「找出我討論過 authentication 的對話」
+- 「顯示這週最複雜的 session」
+- 「從最近的 histo session 產生報告」
+
 ---
 
 ## 安裝方式
