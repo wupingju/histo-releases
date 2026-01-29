@@ -6,13 +6,13 @@
     <description>Histo app updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.4.1</title>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <title>Version 0.5.0</title>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 27 Jan 2026 14:14:39 +0000</pubDate>
-      <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.4.1/Histo-0.4.1.dmg" sparkle:version="21" sparkle:shortVersionString="0.4.1" length="11450298" type="application/octet-stream" sparkle:edSignature="rgg53ptMAB8UYppueAI4mFyWluLZMHm7ycDoGCeI1PZE2B58hgUxtdL38ImJ6qbCnc35XZ/zc8qQmg0swjOeCw==" />
-      <description><![CDATA[<h2>Version 0.4.1</h2><ul><li>Improve Fork feature with cleaner Markdown export and helpful token estimation</li><li>Add help button explaining difference between Resume and Fork actions</li></ul>]]></description>
+      <pubDate>Thu, 29 Jan 2026 12:29:56 +0000</pubDate>
+      <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.5.0/Histo-0.5.0.dmg" sparkle:version="22" sparkle:shortVersionString="0.5.0" length="11527556" type="application/octet-stream" sparkle:edSignature="SXYpUGVvHj/sZMwdFH+uShfzjJooUceTCohvOQDjfPWJ13xWILF7KzJ962Sr3kP5MT6vlErOfLgyd0/yq1N1CQ==" />
+      <description><![CDATA[<h2>Version 0.5.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
     </item>
   </channel>
 </rss>
