@@ -12,7 +12,19 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Thu, 29 Jan 2026 12:29:56 +0000</pubDate>
       <enclosure url="https://github.com/wupingju/histo-releases/releases/download/v0.5.0/Histo-0.5.0.dmg" sparkle:version="22" sparkle:shortVersionString="0.5.0" length="11527556" type="application/octet-stream" sparkle:edSignature="SXYpUGVvHj/sZMwdFH+uShfzjJooUceTCohvOQDjfPWJ13xWILF7KzJ962Sr3kP5MT6vlErOfLgyd0/yq1N1CQ==" />
-      <description><![CDATA[<h2>Version 0.5.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <description><![CDATA[<h2>Version 0.5.0</h2>
+<ul>
+<li>Introduce HistoMCP: Let Claude Code access your conversation history
+  <ul>
+  <li>Ask Claude "Do you remember why we decided to...?" and it can search past conversations</li>
+  <li>Ask "What did I work on last week?" to get activity summaries</li>
+  <li>Claude can load and read full conversation content when needed</li>
+  <li>Generate reports summarizing discussions across multiple sessions</li>
+  <li>Setup: Go to Settings → Integrations and follow the one-click installation</li>
+  </ul>
+</li>
+<li>Fix duplicate messages appearing in IDE version sessions</li>
+</ul>]]></description>
     </item>
   </channel>
 </rss>

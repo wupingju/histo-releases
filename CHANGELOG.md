@@ -4,6 +4,18 @@ All notable changes to Histo will be documented in this file.
 
 ---
 
+## [0.5.0] - 2026-01-29
+
+- Introduce HistoMCP: Let Claude Code access your conversation history
+  - Ask Claude "Do you remember why we decided to...?" and it can search past conversations
+  - Ask "What did I work on last week?" to get activity summaries
+  - Claude can load and read full conversation content when needed
+  - Generate reports summarizing discussions across multiple sessions
+  - Setup: Go to Settings → Integrations and follow the one-click installation
+- Fix duplicate messages appearing in IDE version sessions
+
+---
+
 ## [0.4.1] - 2026-01-27
 
 - Improve Fork feature with cleaner Markdown export and helpful token estimation
